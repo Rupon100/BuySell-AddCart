@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Earbuds",
+      "price": 59.99,
+      "inStock": 3,
+      "description": "High-quality sound, Bluetooth 5.0, and noise cancellation.",
+      "image": "https://i.ibb.co.com/SPcNjW6/wireless-earbuds-with-neon-cyberpunk-style-lighting.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "name": "Laptop Stand",
+      "price": 24.99,
+      "inStock": 4,
+      "description": "Ergonomic aluminum stand for laptops, adjustable height.",
+      "image": "https://i.ibb.co.com/SXSrFts/workplace-with-laptop-stand-near-eyeglasses.jpg",
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "name": "Portable Charger",
+      "price": 29.99,
+      "inStock": 5,
+      "description": "Fast charging, compact design, with 10,000mAh capacity.",
+      "image": "https://i.ibb.co.com/Bt9B5vN/power-bank-mobile-phone.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "price": 49.99,
+      "inStock": 3,
+      "description": "Portable, waterproof, and delivers powerful sound with deep bass.",
+      "image": "https://i.ibb.co.com/h7j0Gqz/view-horizontal-bluetooth-speaker-with-simple-minimal-modern-design.jpg",
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "name": "Wireless Mouse",
+      "price": 19.99,
+      "inStock": 2,
+      "description": "Smooth and silent operation, with adjustable DPI settings.",
+      "image": "https://i.ibb.co.com/2trQNvr/purple-computer-mouse.jpg",
+      "isFeatured": true
+    }
+  ]
+  
