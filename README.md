@@ -7,5 +7,5 @@
 * The cart displays both the subtotal and the total number of items.
 * When a product is removed from the cart, its price is deducted from the subtotal, and the total number of items decreases accordingly.
 
-#### live view: 
+#### live view: https://buysell-addtocart.netlify.app/
  
