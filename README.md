@@ -1,8 +1,11 @@
-# React + Vite
+# BuySell
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Add-to-Cart Functionality
 
-Currently, two official plugins are available:
+### This project implements an add-to-cart feature with the following behaviors:
+* Users can add products to the cart, but each product can only be added once. If a user tries to add the same product again, an alert will notify them.
+* The cart displays both the subtotal and the total number of items.
+* When a product is removed from the cart, its price is deducted from the subtotal, and the total number of items decreases accordingly.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### live view: 
+ 
